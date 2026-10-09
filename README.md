@@ -1,0 +1,2 @@
+# premium-investment-001-investment-shell-building-guid
+Stop losing track of shell geometry, material specs, and casting iterations in scattered spreadsheets. The Investment Shell Building Guide is a Notion template designed specifically to centralize every step of your investment cast shell development—from wax pattern to final ceramic shell.  This template eliminates the guesswork in shell building by
